@@ -11,3 +11,5 @@ Para la creación de la base de datos será necesario ejecutar
 
 * sakila-db/sql-server-sakila-schema.sql
 * sakila-db/sql-server-sakila-insert-data.sql
+
+Los script fueron copiados del proyecto archivado [Sakila Sample Database](https://github.com/ozzymcduff/sakila-sample-database-ports)
