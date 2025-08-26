@@ -1,5 +1,5 @@
-# bda-2024-q2
-# Base de datos Aplicada 2024 2º Cuatrimestre
+# bda-2025-q2
+# Base de datos Aplicada 2025 2º Cuatrimestre
 
 Este repositorio contiene ejemplos de bases de datos utilizadas durante la cursada.
 
